@@ -4,6 +4,11 @@
 
 Tiny Karts is a small Time Trial Racing Game that was developed for Sinclair College's Tech Prep Showcase. Tiny Karts was created using C# and Unity 3D's Universal Render Pipeline. This README contains how each of the scripts within Tiny Karts works as well as some future changes.
 - Unity Version: 2020.3.25f1
+
+</br>
+</br>
+</br>
+  
 ## Table of Contents
 - [Go-Kart Controller](#go-kart-controller)
 - [Camera Controller](#camera-controller)
